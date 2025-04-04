@@ -1,68 +1,52 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Iftyker  | Portfolio</title>
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-      font-family: 'Segoe UI', sans-serif;
-      background: #f9f9f9;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      min-height: 100vh;
-      color: #333;
-    }
+# Hello, I'm Iftyker
 
-    header {
-      background-color: #007acc;
-      color: white;
-      width: 100%;
-      padding: 1.5rem;
-      text-align: center;
-    }
+Welcome to my GitHub Pages site 🎉
 
-    main {
-      max-width: 800px;
-      padding: 2rem;
-      text-align: center;
-    }
+---
 
-    a {
-      color: #007acc;
-      text-decoration: none;
-      font-weight: bold;
-    }
+This is a simple portfolio page hosted with GitHub Pages. You can customize this to include your projects, resume, contact info, and more.
 
-    a:hover {
-      text-decoration: underline;
-    }
+## 🧑‍💻 About Me
 
-    footer {
-      margin-top: auto;
-      padding: 1rem;
-      font-size: 0.9rem;
-      color: #666;
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>Hello, I'm Your Name</h1>
-    <p>Welcome to my GitHub Pages site 🎉</p>
-  </header>
+I'm a passionate developer who loves building websites and learning new technologies. My goal is to create beautiful, fast, and accessible experiences on the web. Whether it's frontend development or dabbling in backend systems, I'm always exploring and growing.
 
-  <main>
-    <p>This is a simple portfolio page hosted with GitHub Pages. You can customize this to include your projects, resume, contact info, and more.</p>
-    <p><a href="https://github.com/yourusername" target="_blank">Visit my GitHub Profile</a></p>
-  </main>
+I started coding in high school, fascinated by how websites worked. Over the years, I've grown from tinkering with HTML and CSS to building full-stack applications. I'm especially interested in user experience, accessibility, and performance optimization.
 
-  <footer>
-    &copy; 2025 Your Name. All rights reserved.
-  </footer>
-</body>
-</html>
+When I'm not coding, I enjoy reading tech blogs, contributing to open source, and mentoring junior developers. I'm a strong believer in lifelong learning and love being part of a supportive, innovative tech community.
+
+## 🚀 Projects
+
+- **Project One** — A cool web app that solves a real-world problem. Built with React and Firebase.
+- **Project Two** — A mobile-friendly portfolio built with HTML, CSS, and JavaScript. Deployed using GitHub Pages.
+- **Project Three** — An API for managing todo lists, built with Node.js, Express, and MongoDB.
+- **Project Four** — A personal blog using Jekyll and hosted on GitHub Pages.
+- **Project Five** — A weather app using OpenWeatherMap API with responsive UI and dark mode.
+
+Check out more on my [GitHub repositories](https://github.com/yourusername?tab=repositories).
+
+## 📄 Resume
+
+You can download my resume [here](#) *(link it to your resume file when ready)*. It outlines my education, experience, technical skills, and achievements. Highlights include internships at tech startups, freelance projects, and consistent involvement in hackathons and coding competitions.
+
+## 🛠️ Skills
+
+- **Languages**: HTML, CSS, JavaScript, Python, Java
+- **Frameworks & Libraries**: React, Express.js, Bootstrap, Tailwind CSS
+- **Databases**: MongoDB, MySQL, Firebase
+- **Tools**: Git, GitHub, VS Code, Postman, Figma
+- **Other**: Responsive Design, SEO, Agile Methodology
+
+## 📬 Contact Me
+
+If you'd like to connect, feel free to reach out:
+
+- 📧 Email: your.email@example.com  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
+- 🌐 Personal Website: [yourwebsite.com](https://yourwebsite.com)
+
+Whether you're interested in collaborating, have a job opportunity, or just want to say hi—I'd love to hear from you!
+
+---
+
+© 2025 Your Name. All rights reserved.
